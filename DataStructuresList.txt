@@ -1,0 +1,5 @@
+1. Stacks
+2. Queues
+3. Linked Lists
+4. Trees
+5. Graphs
